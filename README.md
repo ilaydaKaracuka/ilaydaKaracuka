@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İlayda Karaçuka</h1>
+<h1 align="center">Hi 👋, I'm Ilayda Karacuka</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
 - 📫 How to reach me **ilaydakararacuka1@gmail.com**
