@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilayda Karacuka</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Computer Engineer</h3>
 
 - 📫 How to reach me **ilaydakararacuka1@gmail.com**
 
